@@ -204,4 +204,4 @@ folium.GeoJson(
 ).add_to(mapa)
 
 # Guardar archivo
-mapa.save("italia_gastronomico.html")
+mapa.save("index.html")
